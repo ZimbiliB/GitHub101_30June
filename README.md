@@ -10,4 +10,5 @@ Guess will say
 
 Commit to the test-branch Zimmy!!!
 
-a local edit
+Both a local edit and Testing clashes with changes in the same line. In this case, line 13. 
+
