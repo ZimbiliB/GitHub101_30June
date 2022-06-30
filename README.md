@@ -9,3 +9,5 @@ Supposed to ive a good commit message
 Guess will say
 
 Commit to the test-branch Zimmy!!!
+
+Testing clashes with changes in the same line. In this case, line 13. 
